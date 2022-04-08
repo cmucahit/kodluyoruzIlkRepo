@@ -41,15 +41,14 @@ O ( n ^ 2)
 ```
 
 # Time Complexity: 
-Average case: Aradığımız sayının ortada olması,
-Worst case: Aradığımız sayının sonda olması, 
-Best case: Aradığımız sayının dizinin en başında olması.
 
 
 ```
+Average case: Aradığımız sayının ortada olması,
 
+Worst case: Aradığımız sayının sonda olması, 
 
-
+Best case: Aradığımız sayının dizinin en başında olması.
 ```
 
 
