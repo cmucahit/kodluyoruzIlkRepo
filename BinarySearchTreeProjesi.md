@@ -5,12 +5,16 @@ Proje 3
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 # Binary-Search-Tree aşamalarını yazınız.
-Root 7
-7'nin solunda 5, sağında 8
-5'in solunda 1, sağında 6
-1'in solunda 0, sağında 3
-3'ün solunda 2, sağında 4
-8'in sağında 9
+```
+Root 7 
+7'nin solunda 5, sağında 8 
+5'in solunda 1, sağında 6 
+1'in solunda 0, sağında 3 
+3'ün solunda 2, sağında 4 
+8'in sağında 9 
+
+```
 
 # Kaynaklar
-https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort
+
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree
